@@ -42,3 +42,8 @@ xcuserdata/
 # Debug logs
 *.log
 
+# Ignore all files with a dot prefix
+.*
+
+# Ignore all files with a dot prefix in subdirectories
+**/.*
